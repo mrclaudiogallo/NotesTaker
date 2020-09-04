@@ -24,10 +24,11 @@ User will see that server is running then proceed to go the link of the app to v
 Please contact me before doing any changes to the app.
 
 # Tests
-Check the video at
+Check the GIF Demonstration.
 
 # Questions
 Email: cgb1408@outlook.com
 Github: https://github.com/mrclaudiogallo
+Heroku: https://notes-taker-cgb.herokuapp.com/
 
 ©MIT
